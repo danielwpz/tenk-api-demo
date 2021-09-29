@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@danielwpz/tenk-api": "^0.1.16",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
@@ -23,6 +24,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
-    "eslint-plugin-vue": "^7.0.0"
+    "eslint-plugin-vue": "^7.0.0",
+    "near-api-js": "^0.42.0"
   }
 }
